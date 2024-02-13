@@ -1,0 +1,19 @@
+CommandsEnabled: {
+	Tooltip: Разрешить использование команд для всех игроков.
+	Label: Включение команд
+}
+
+LevelCommandEnabled: {
+    Tooltip: Разрешает использовать команду /level.
+    Label: Включить команду /level
+}
+
+PointCommandEnabled: {
+    Tooltip: Разрешает использовать команду /point.
+    Label: Включить команду /point
+}
+
+XpCommandEnabled: {
+    Tooltip: Разрешает использовать команду /xp.
+    Label: Включить команду /xp
+}

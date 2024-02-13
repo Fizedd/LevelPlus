@@ -1,0 +1,39 @@
+Level: {
+	Name: Уровень
+	Bonuses: TBD
+}
+
+Endurance: {
+	Name: Выносливость
+	Bonuses:  TBD
+}
+
+Brawn: {
+	Name: Сила
+	Bonuses:  TBD
+}
+
+Deft: {
+	Name: Ловкость
+	Bonuses:  TBD
+}
+
+Intellect: {
+	Name: Интеллект
+	Bonuses:  TBD
+}
+
+Charm: {
+	Name: Очарование
+	Bonuses:  TBD
+}
+
+Luck: {
+	Name: Удача
+	Bonuses:  TBD
+}
+
+Adroit: {
+	Name: Смекалка
+	Bonuses:  TBD
+}

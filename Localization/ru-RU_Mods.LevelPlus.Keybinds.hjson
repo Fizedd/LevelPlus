@@ -1,0 +1,15 @@
+SpendAll: {
+    DisplayName: Вложить все очки.
+}
+
+SpendTen: {
+    DisplayName: Вложить 10 очков.
+}
+
+SpendFive: {
+    DisplayName: Вложить 5 очков.
+}
+
+OpenSpendUI: {
+    DisplayName: Открыть статистику персонажа.
+}
